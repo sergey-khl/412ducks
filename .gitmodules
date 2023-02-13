@@ -1,0 +1,4 @@
+[submodule "lab2"]
+	path = lab2
+	url = git@github.com:sergey-khl/lab2ducks.git
+	branch = pinapple
