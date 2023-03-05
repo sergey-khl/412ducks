@@ -2,3 +2,6 @@
 	path = lab2
 	url = git@github.com:sergey-khl/lab2ducks.git
 	branch = pinapple
+[submodule "lab3"]
+	path = lab3
+	url = git@github.com:sergey-khl/lab3ducks.git
