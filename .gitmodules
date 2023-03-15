@@ -5,3 +5,6 @@
 [submodule "lab3"]
 	path = lab3
 	url = git@github.com:sergey-khl/lab3ducks.git
+[submodule "lab4"]
+	path = lab4
+	url = git@github.com:sergey-khl/lab4ducks.git
