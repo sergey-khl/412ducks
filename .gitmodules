@@ -8,3 +8,9 @@
 [submodule "lab4"]
 	path = lab4
 	url = git@github.com:sergey-khl/lab4ducks.git
+[submodule "lab5/lab5ducks"]
+	path = lab5/lab5ducks
+	url = git@github.com:sergey-khl/lab5ducks.git
+[submodule "lab5/lab5ml"]
+	path = lab5/lab5ml
+	url = git@github.com:sergey-khl/lab5ml.git
