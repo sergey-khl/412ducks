@@ -14,3 +14,6 @@
 [submodule "lab5/lab5ml"]
 	path = lab5/lab5ml
 	url = git@github.com:sergey-khl/lab5ml.git
+[submodule "final"]
+	path = final
+	url = git@github.com:sergey-khl/finalDucks.git
